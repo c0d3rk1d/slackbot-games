@@ -1,9 +1,9 @@
 # Heads and Tails with Edge
 
 When someone says
-```
-slackbot toss a coin,slackbot toss coin,slackbot flip a coin,slackbot flip coin
-```
+
+>slackbot toss a coin,slackbot toss coin,slackbot flip a coin,slackbot flip coin
+
 Slackbot responds
 ```
 Heads
