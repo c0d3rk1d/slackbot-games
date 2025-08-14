@@ -1,4 +1,4 @@
-# Pick a Single Digit Number
+# Random Number - Between 0 and 9
 
 When someone says
 

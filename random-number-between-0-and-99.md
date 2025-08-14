@@ -1,4 +1,4 @@
-# Random Number
+# Random Number - Between 0 and 99
 
 When someone says
 
