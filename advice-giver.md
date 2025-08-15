@@ -1,4 +1,4 @@
-# Slackbot Gives Advice
+# Advice Giver
 
 When someone says
 
